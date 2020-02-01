@@ -7,9 +7,6 @@ This repository consists in a template to deploy in MyBynder.org a Jupyter noteb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/Template_Matlab_JupyterNB_Binder/master)
 
-
-<p>&nbsp;</p> 
-
 ## Versioning  
 This template repository uses the [SemVer](http://semver.org/) standard for its versioning. Have a look to the available versions [here](https://github.com/FatimaPillosu/Template_Matlab_JupyterNB_Bynder/releases). 
 
