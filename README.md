@@ -3,7 +3,7 @@
 <p>&nbsp;</p>  
 
 ## Project Overview
-This repository consists in a template to deploy in MyBynder.org a Jupyter notebook that run a Matlab code.
+This is template repository that deploys with MyBynder.org a Jupyter notebook that runs Matlab code.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/Template_Matlab_JupyterNB_Binder/master)
 
